@@ -5,7 +5,7 @@ import 'package:audiotags/audiotags.dart';
 import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
 
-import 'package:lalo_music_player/model/cancion.dart';
+import 'package:lalo_music_player/data/models/cancion.dart';
 import 'package:lalo_music_player/services/audio_player_service.dart';
 
 class ScreenLocalLibrary extends StatefulWidget {

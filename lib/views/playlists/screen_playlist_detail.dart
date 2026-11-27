@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lalo_music_player/model/cancion.dart';
-import 'package:lalo_music_player/screens/screen_select_from_library.dart';
+import 'package:lalo_music_player/data/models/cancion.dart';
+import 'package:lalo_music_player/views/library/screen_select_from_library.dart';
 import 'package:lalo_music_player/services/audio_player_service.dart';
 
 class ScreenPlaylistDetail extends StatelessWidget {

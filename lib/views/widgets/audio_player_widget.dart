@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lalo_music_player/model/cancion.dart';
+import 'package:lalo_music_player/data/models/cancion.dart';
 import 'package:lalo_music_player/services/audio_player_service.dart';
 import 'package:just_audio/just_audio.dart';
 

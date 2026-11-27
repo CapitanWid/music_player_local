@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:lalo_music_player/screens/screen_playlist_detail.dart';
+import 'package:lalo_music_player/views/playlists/screen_playlist_detail.dart';
 import 'package:lalo_music_player/services/audio_player_service.dart';
-import 'package:lalo_music_player/screens/screen_local_library_add_to_playlist.dart';
+import 'package:lalo_music_player/views/playlists/screen_local_library_add_to_playlist.dart';
 
 class ScreenLocalPlaylists extends StatefulWidget {
   const ScreenLocalPlaylists({super.key});

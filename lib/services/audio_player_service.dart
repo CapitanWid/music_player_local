@@ -5,7 +5,7 @@ import 'package:audiotags/audiotags.dart';
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:just_audio_background/just_audio_background.dart';
-import 'package:lalo_music_player/model/cancion.dart';
+import 'package:lalo_music_player/data/models/cancion.dart';
 import 'package:path_provider/path_provider.dart';
 
 /// ===============================================
